@@ -5,3 +5,4 @@
 ## Graphs
 
 * [Traversal](graphs/traversal.md)
+* [Dijkstras Algorithm](graphs/dijkstras-algorithm.md)
