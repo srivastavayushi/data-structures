@@ -6,3 +6,9 @@
 
 * [Traversal](graphs/traversal.md)
 * [Dijkstras Algorithm](graphs/dijkstras-algorithm.md)
+
+## Dynamic Programming
+
+* [Coding Problems](dynamic-programming/coding-problems.md)
+* [Introduction](dynamic-programming/introduction.md)
+* [0/1 Knapsack](dynamic-programming/0-1-knapsack.md)
