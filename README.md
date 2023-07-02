@@ -14,4 +14,5 @@
 * [ ] Queues
 * [ ] Priority Queues / Heaps
 * [ ] Sliding Window
-*
+* [ ] Backtracking
+* [ ] Tries
