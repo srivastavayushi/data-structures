@@ -16,3 +16,6 @@
 * [ ] Sliding Window
 * [ ] Backtracking
 * [ ] Tries
+* [ ] Bit Manipulation&#x20;
+  * [ ] [Striver Playlist](https://www.youtube.com/live/5rtVTYAk9KQ?feature=share)
+  *

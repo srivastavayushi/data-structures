@@ -12,3 +12,8 @@
 * [Coding Problems](dynamic-programming/coding-problems.md)
 * [Introduction](dynamic-programming/introduction.md)
 * [0/1 Knapsack](dynamic-programming/0-1-knapsack.md)
+
+## Bit Manipulation
+
+* [Coding Problems](bit-manipulation/coding-problems.md)
+* [Introduction](bit-manipulation/introduction.md)
