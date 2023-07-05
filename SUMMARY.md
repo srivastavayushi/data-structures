@@ -21,4 +21,9 @@
 ## Recursion
 
 * [Coding Problems](recursion/coding-problems.md)
-* [Basic Problems](recursion/basic-problems.md)
+* [Problem Solving Structures](recursion/problem-solving-structures.md)
+
+## Sliding Window
+
+* [Coding Problems](sliding-window/coding-problems.md)
+* [Introduction](sliding-window/introduction.md)
